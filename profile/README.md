@@ -1,4 +1,4 @@
-![Neuenet logo](https://user-images.githubusercontent.com/1288356/169412693-689973b7-7bc3-40e2-a4a5-a33b9c2eb493.svg)
+![Neuenet logo](https://user-images.githubusercontent.com/1288356/198500758-64840b17-db8b-4008-bd0f-71f7a4dbcca4.svg)
 
 <div align="center">
   We are building the future of the Internet...the <strong>Neue Internet</strong>, if you will.<br/>
